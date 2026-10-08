@@ -1637,7 +1637,7 @@ msgstr "กรวยยักษ์"
 #. Upgrade card - description (weapon_cone)
 #. source: Orange cones stuck to you. They cook what they point at with Heat.
 msgid "UPGRADE.weapon_cone.description"
-msgstr "กรวยจราจรสีส้มที่ติดอยู่กับเคอร์เซอร์ สร้างความเสียหายฮีทให้กับศัตรูที่สัมผัสมัน"
+msgstr "กรวยสีส้มที่ติดอยู่กับเคอร์เซอร์ สร้างความเสียหายฮีทให้กับศัตรูที่สัมผัสมัน"
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
@@ -5885,7 +5885,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (fontart_wordart)
 #. source: Outline
 msgid "DRIVER.fontart_wordart.name"
-msgstr "เวิร์ดอาร์ต"
+msgstr "เอาท์ไลน์"
 
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
@@ -5965,7 +5965,7 @@ msgstr "กับระเบิดไม่หายไปจนกว่าจ
 #. Weapon driver / overclock card - name (modem_handshake)
 #. source: Feedback
 msgid "DRIVER.modem_handshake.name"
-msgstr "ไดอัล-อัป คอนเจสชั่น"
+msgstr "ฟี้ดแบ็ค"
 
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
@@ -5977,7 +5977,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (modem_broadband)
 #. source: Gain
 msgid "DRIVER.modem_broadband.name"
-msgstr "บรอดแบนด์"
+msgstr "เกน"
 
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.
