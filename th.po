@@ -1583,7 +1583,7 @@ msgstr "อีเมล"
 msgid "UPGRADE.weapon_email.description"
 msgstr ""
 "ปล่อยซองจดหมายที่จะเด้งสะท้อนขอบกำแพง\n"
-"และเด้งย้อนกลับเคอร์เซอร์ ทำดาเมจสองรอบ"
+"ย้อนกลับมาที่เคอร์เซอร์ ทำดาเมจสองรอบ"
 
 #. Upgrade card - name (weapon_cruiser)
 #. source: Internet Cruiser
